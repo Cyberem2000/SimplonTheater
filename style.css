@@ -1,0 +1,18 @@
+header {
+	padding-bottom: 60px;
+}
+h1, p {
+	text-align: center;
+}
+.alert {
+	color: #8B0000;
+}
+.alert, .confirm, a {
+	font-size: 30px;
+}
+.confirm {
+	color: #006400;
+}
+footer {
+	padding-top: 60px;
+}

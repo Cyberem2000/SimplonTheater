@@ -1,0 +1,38 @@
+main {
+	padding: 30px 60px;
+}
+h1 {
+	font-size: 40px;
+}
+h1, caption, th {
+	background-color: #D3D3D3; 
+}
+h1, .center, td, footer {
+	text-align: center;
+}
+form {
+	margin-bottom: 60px;
+}
+label {
+	display: inline-block;
+}
+label, caption {
+	font-size: 30px;
+}
+label, caption, th, td {
+	padding: 10px 0;
+}
+input {
+	zoom: 2;
+	margin-left: 20px;
+}
+input[type="submit"] {
+	margin: auto;
+}
+.green {
+	background-color: #7CFC00;
+}
+.red {
+	background-color: #B22222;
+	color: #FFFFFF;
+}
